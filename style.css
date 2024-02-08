@@ -306,7 +306,7 @@ animation-iteration-count: infinite;
 .project-card{
     width: 90%;
     height: 550px;
-    background-image: url(images\projects\Project1.png);
+    background-image: url(images/projects/Project4.png);
     background-size: cover;
    /*  background-repeat: no-repeat; */
    position: relative;
@@ -428,16 +428,16 @@ animation-iteration-count: infinite;
     }
 
     #project1{
-        background-image:url(./images/projects/Project1.png) ;
+        background-image:url(./images/projects/Poject5.png) ;
     }
 
     #project2{
         margin-left: 120px;
-        background-image:url(./images/projects/Project2.png) ;
+        background-image:url(./images/projects/Project6.png) ;
     }
 
     #project3{
-        background-image:url(./images/projects/Project3.png) ;
+        background-image:url(./images/projects/Project7.png) ;
     }
 
     #project4{
